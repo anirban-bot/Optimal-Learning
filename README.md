@@ -2,7 +2,7 @@
 My name is Anirban Sinha. I am persuing PhD in Robotics from Stony Brook University, New York. Robotics and machine learning are my two key areas of interests.
 
 ### Skills
-Python, C++, Linux, git, PyTorch, C++ python wrapper, Robot Operating System (ROS), Matlab, Mathematica
+Python, C++, Linux, git, PyTorch, C++ python wrapper, Robot Operating System (ROS), Matlab, Mathematica, OpenCV, OpenRAVE
 
 ### Internship
 I have worked as software intern in [Auris Health Robotics](https://www.aurishealth.com/) in summer 2018 and contributed to software release version URO-2.1.2. My project was involved in writing publisher and subscriber codes using [RTI Python Connector](https://www.rti.com/blog/introducing-rti-labs-and-connector-for-connext-dds-with-python) to collect vision and electromagnetic field information.
