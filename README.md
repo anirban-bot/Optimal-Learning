@@ -1,8 +1,14 @@
-## Welcome to Machine Learning World
-Machine learning is a fast growing field and helping people from engineering, robotics, computer science, medicines back grounds. This page is dedicated to different machine learning projects that I have done so far and those which are on going.
+## About
+My name is Anirban Sinha. I am persuing PhD in Robotics from Stony Brook University, New York. Robotics and machine learning are my two key areas of interests.
+
+### Skills
+Python, C++, Linux, git, PyTorch, C++ python wrapper, Robot Operating System (ROS), Matlab, Mathematica
+
+### Internship
+I have worked as software intern in [Auris Health Robotics](https://www.aurishealth.com/) in summer 2018 and contributed to software release version URO-2.1.2. My project was involved in writing publisher and subscriber codes using [RTI Python Connector](https://www.rti.com/blog/introducing-rti-labs-and-connector-for-connext-dds-with-python) to collect vision and electromagnetic field information.
 
 ## Projects
-Here I will provide highlights of each the project and associated `github` link. Some of these projects are research project and some are course projects.
+Machine learning is a fast growing field and helping people from engineering, robotics, computer science, medicines back grounds. This page is dedicated to different machine learning projects that I have done so far and those which are on going. Here I will provide highlights of each the project and associated `github` link. Some of these projects are research project and some are course projects.
 
 ### LASSO Regression for Feature Selection
 Least Absolute Shrinkage and Selection Operator or LASSO is a regression method, highly used in Machine learning community for determining important features when number of features are lot more than needed. We have solved LASSO regression problem using synthetic data that finds only 10 important features out of 80 given features that are required to predict correct targets reliably. In short, LASSO regression helps to obtain sparse solution whenever possible. Use have used popular coordinate descent algorithm to minimize the convex loss function of LASSO. The github link for this project can be found [here](https://github.com/anirban-bot/Coordinate-descent-LASSO)
@@ -21,6 +27,12 @@ the NN embeded into the observer. The second observer is designed for Van der Po
 the single-link observer, tests are performed with no-noise training data set and with noisy dataset
 as well. It has been observed that NN based observer learned more accurately and faster from the
 no-noise data set as compared to noisy data set which leads to longer learning time. The github link for this project can be found [here](https://github.com/anirban-bot/Neuro-Observer-for-Dynamical-Systems)
+
+### Publications
+[1] A precessing and nutating beam with a tip mass, *Mechanics Research Commmunications*, October 2013
+[2] Guided wave based crack detection in turbine blades, *Fourth International Congress on Computational Mechanics and Simulation*, December 2012
+[3] The stability of a precessing and nutating viscoelastic beam with a tip mass, *12th International Conference on Vibration Problems*, 2015
+[4] Robust positioning of redundant manipulators under actuation uncertainty, *Northeastern Robotics Colloquium at Rutgers*, October 2018
 
 ### Support or Contact
 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/anirban-sinha-98199863/) and [Twitter](https://www.linkedin.com/in/anirban-sinha-98199863/)
