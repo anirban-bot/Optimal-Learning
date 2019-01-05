@@ -1,6 +1,14 @@
-## Welcome to Machine Learning
+## Welcome to Machine Learning World
 Machine learning is a fast growing field and helping people from engineering, robotics, computer science, medicines back grounds. This page is dedicated to different machine learning projects that I have done so far and those which are on going.
 
+## Projects
+Here I will provide highlights of each the project and associated `github` link. Some of these projects are research project and some are course projects.
+
+### LASSO Regression for Feature Selection
+Least Absolute Shrinkage and Selection Operator or LASSO is a regression method, highly used in Machine learning community for determining important features when number of features are lot more than needed. We have solved LASSO regression problem using synthetic data that determines only 10 important features out of 80 given features that are required to predict correct targets reliably. In short, LASSO regression helps to obtain sparse solution whenever possible. Use have used popular coordinate descent algorithm to minimize the convex loss function of LASSO. The github link for this project can be found [here] (https://github.com/anirban-bot/Coordinate-descent-LASSO)
+
+### Neural Network to Classify Iris Dataset
+### Design of Neuro-Observer of Robots
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
