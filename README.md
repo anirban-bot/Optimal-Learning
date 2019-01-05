@@ -1,12 +1,15 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/anirban-bot/anirban-bot.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Machine Learning
+Machine learning is a fast growing field and helping people from engineering, robotics, computer science, medicines back grounds. This page is dedicated to different machine learning projects that I have done so far and those which are on going.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```matlab
+  a = 10;
+  b = 20;
+  c = zeros(a,b);
+```
 
 ```markdown
 Syntax highlighted code block
