@@ -22,39 +22,5 @@ the single-link observer, tests are performed with no-noise training data set an
 as well. It has been observed that NN based observer learned more accurately and faster from the
 no-noise data set as compared to noisy data set which leads to longer learning time. The github link for this project can be found [here](https://github.com/anirban-bot/Neuro-Observer-for-Dynamical-Systems)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```matlab
-  a = 10;
-  b = 20;
-  c = zeros(a,b);
-```
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anirban-bot/anirban-bot.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Support or Contact
 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/anirban-sinha-98199863/) and [Twitter](https://www.linkedin.com/in/anirban-sinha-98199863/)
