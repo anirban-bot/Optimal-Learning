@@ -30,9 +30,16 @@ no-noise data set as compared to noisy data set which leads to longer learning t
 
 ### Publications
 [1] A precessing and nutating beam with a tip mass, *Mechanics Research Commmunications*, October 2013
+
 [2] Guided wave based crack detection in turbine blades, *Fourth International Congress on Computational Mechanics and Simulation*, December 2012
+
 [3] The stability of a precessing and nutating viscoelastic beam with a tip mass, *12th International Conference on Vibration Problems*, 2015
+
 [4] Robust positioning of redundant manipulators under actuation uncertainty, *Northeastern Robotics Colloquium at Rutgers*, October 2018
+
+[5] Geometric Search based Inverse Kinematics for 7-DoF Redundant Manipulators with Joint Offsets, *IEEE International Conference on Robotics and Automation*, 2019 (submitted)
+
+[6] Kinematics Based Motion Planning using Complementarity Constraint for Obstacle Avoidance, *IEEE Transactions on Robotics and Automation*, (submitted)
 
 ### Support or Contact
 Feel free to reach me on [Linkedin](https://www.linkedin.com/in/anirban-sinha-98199863/) and [Twitter](https://www.linkedin.com/in/anirban-sinha-98199863/)
