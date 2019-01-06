@@ -10,6 +10,27 @@ I have worked as software intern in [Auris Health Robotics](https://www.aurishea
 ## Projects
 Machine learning is a fast growing field and helping people from engineering, robotics, computer science, medicines back grounds. This page is dedicated to different machine learning projects that I have done so far and those which are on going. Here I will provide highlights of each the project and associated `github` link. Some of these projects are research project and some are course projects.
 
+### EKF-for-Trajectory-Estimation
+The project focuses on the control of a mobile robot that intends to go from a given initial position to a desired goal position. The robt has to generate a path from initial to final position while avoiding obstacles simulteneously. The robot here is considered as a point mass robot.
+
+1. Generated mesh grid and put obstacles in the grid
+2. Use Dynamic Programing to figure out the path that avoids obstacles while simulteneously moving from initial to goal
+3. Test the algorithm with different buffer size around the obstacles
+4. Smoothing the way-points in the path
+5. Generating trajectory that follows uniform speed of 1.5 through out the path
+6. Designing a Control-Law considering Actuator-Constraints while tracking the desired trajectory
+7. Designing an Observer by Reduced-Order-Observer method
+8. Implementing Seperation-Principle to combine Controller and Observer
+
+
+![evol_cost](img/Value_growth9.gif)
+**Evolution of cost in Value-Iteration**
+
+![exp_op](img/Obs_Avoidance196.gif)
+**Figure above shows, how a robot uses partially observable states to reach from start to goal while avoiding the obstacles**
+
+
+
 ### LASSO Regression for Feature Selection
 Least Absolute Shrinkage and Selection Operator or LASSO is a regression method, highly used in Machine learning community for determining important features when number of features are lot more than needed. We have solved LASSO regression problem using synthetic data that finds only 10 important features out of 80 given features that are required to predict correct targets reliably. In short, LASSO regression helps to obtain sparse solution whenever possible. Use have used popular coordinate descent algorithm to minimize the convex loss function of LASSO. The github link for this project can be found [here](https://github.com/anirban-bot/Coordinate-descent-LASSO)
 
