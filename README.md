@@ -67,4 +67,5 @@ no-noise data set as compared to noisy data set which leads to longer learning t
 [6] Kinematics Based Motion Planning using Complementarity Constraint for Obstacle Avoidance, *IEEE Transactions on Robotics and Automation*, (submitted)
 
 ### Support or Contact
-Feel free to reach me on [Linkedin](https://www.linkedin.com/in/anirban-sinha-98199863/) and [Twitter](https://www.linkedin.com/in/anirban-sinha-98199863/)
+Feel free to reach me on [Linkedin](https://www.linkedin.com/in/anirban-sinha-98199863/) 
+<!--and [Twitter](https://www.linkedin.com/in/anirban-sinha-98199863/)-->
