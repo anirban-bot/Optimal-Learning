@@ -32,10 +32,13 @@ The project focuses on the control of a mobile robot that intends to go from a g
 
 
 ### LASSO Regression for Feature Selection
-Least Absolute Shrinkage and Selection Operator or LASSO is a regression method, highly used in Machine learning community for determining important features when number of features are lot more than needed. We have solved LASSO regression problem using synthetic data that finds only 10 important features out of 80 given features that are required to predict correct targets reliably. In short, LASSO regression helps to obtain sparse solution whenever possible. Use have used popular coordinate descent algorithm to minimize the convex loss function of LASSO. The github link for this project can be found [here](https://github.com/anirban-bot/Coordinate-descent-LASSO)
+Least Absolute Shrinkage and Selection Operator or LASSO is a regression method, highly used in Machine learning community for determining important features when number of features are lot more than needed. We have solved LASSO regression problem using synthetic data that finds only 10 important features out of 80 given features that are required to predict correct targets reliably. In short, LASSO regression helps to obtain sparse solution whenever possible. Use have used popular coordinate descent algorithm to minimize the convex loss function of LASSO. 
+<!-- The github link for this project can be found 
+[here](https://github.com/anirban-bot/Coordinate-descent-LASSO)-->
 
 ### Neural Network to Classify Iris Dataset
-In this project we want to classify different species of Iris flowers from Iris-dataset. This data-set is highly nonlinear and hence can not be classified with linear classifier. We have introduced a three layer (1 input+ 1 hidden + 1 output) neural net which are fully connected to build the classifier. We have developed the model using PyTorch's `torch.nn` module. Our model was able to predict correct labels with 99% accuracy on test data. We have also computed *confusion* matrix to better visualize the prediction pattern of the model. The github link for this project can be found [here](https://github.com/anirban-bot/PyTorch-for-Iris-Dataset)
+In this project we want to classify different species of Iris flowers from Iris-dataset. This data-set is highly nonlinear and hence can not be classified with linear classifier. We have introduced a three layer (1 input+ 1 hidden + 1 output) neural net which are fully connected to build the classifier. We have developed the model using PyTorch's `torch.nn` module. Our model was able to predict correct labels with 99% accuracy on test data. We have also computed *confusion* matrix to better visualize the prediction pattern of the model. 
+<!-- The github link for this project can be found [here](https://github.com/anirban-bot/PyTorch-for-Iris-Dataset) -->
 
 ### Design of Neuro-Observer of Robots
 In this project we synthesized a nonlinear system-state-observer for two single-input-single-output
@@ -47,7 +50,8 @@ observer for a single-link robot, rotating in vertical plane with two sets of ex
 the NN embeded into the observer. The second observer is designed for Van der Pol oscillator. For
 the single-link observer, tests are performed with no-noise training data set and with noisy dataset
 as well. It has been observed that NN based observer learned more accurately and faster from the
-no-noise data set as compared to noisy data set which leads to longer learning time. The github link for this project can be found [here](https://github.com/anirban-bot/Neuro-Observer-for-Dynamical-Systems)
+no-noise data set as compared to noisy data set which leads to longer learning time. 
+<!-- The github link for this project can be found [here](https://github.com/anirban-bot/Neuro-Observer-for-Dynamical-Systems) -->
 
 ### Publications
 [1] A precessing and nutating beam with a tip mass, *Mechanics Research Commmunications*, October 2013
