@@ -38,7 +38,7 @@ Least Absolute Shrinkage and Selection Operator or LASSO is a regression method,
 
 ### Support Vector Machines Primal and Dual Solution
 This project is associated to binary classification problem using SVM with Quadratic Programming as optimization algorithm. We solve the classification problem in two different ways, first by optimizing the primal formulation of SVM and secondly by solving the dual formulation of SVM. We checked whether both ways provide same solution to validate correctness of the implementation. We also tried to understand how to select a good threshold to find support vectors from the solution provided by quadratic programming.
-![SVM_basic](img/SVM-primal_dual.png)
+![SVM_basic](img/SVM-primal-Dual.png)
 
 ### Neural Network to Classify Iris Dataset
 In this project we want to classify different species of Iris flowers from Iris-dataset. This data-set is highly nonlinear and hence can not be classified with linear classifier. We have introduced a three layer (1 input+ 1 hidden + 1 output) neural net which are fully connected to build the classifier. We have developed the model using PyTorch's `torch.nn` module. Our model was able to predict correct labels with 99% accuracy on test data. We have also computed *confusion* matrix to better visualize the prediction pattern of the model. 
