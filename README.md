@@ -61,6 +61,10 @@ as well. It has been observed that NN based observer learned more accurately and
 no-noise data set as compared to noisy data set which leads to longer learning time. 
 <!-- The github link for this project can be found [here](https://github.com/anirban-bot/Neuro-Observer-for-Dynamical-Systems) -->
 
+### Pose Estimation Using Aruco Markers
+This is a byproduct project which I carried out to perform visual servoing of robot manipulators. In this project I showed how to integrate OpenCV, ROS and Baxter-SDK to track pose of an object (tagged with aruco markers) through an external and eventually passing that information to Baxter robot to plan a trajectory for grasping the object and put it back to a stacking basket. However just tracking the object requires a non-trivial amount of work if you are starting from scratch. The figure shows that an object is tagged with an Aruco maker and being tracked by `aruco_ros` package. One can get the pose (format: x,y,z,qx,qy,qz,qw) information by simply subscribing the topic called `/usb_cam/pose`. There are many tracking algorithm out there but very few of them provides pose information and work fast as aruco.
+![aruco_tracker](img/aruco_tracking.png)
+
 ### Publications
 [1] A precessing and nutating beam with a tip mass, *Mechanics Research Commmunications*, October 2013
 
