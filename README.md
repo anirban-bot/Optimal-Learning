@@ -79,5 +79,5 @@ This is a byproduct project which I carried out to perform visual servoing of ro
 [6] Kinematics Based Motion Planning using Complementarity Constraint for Obstacle Avoidance, *IEEE Transactions on Robotics and Automation*, (submitted)
 
 ### Support or Contact
-Feel free to reach me on [Linkedin](https://www.linkedin.com/in/anirban-sinha-98199863/) 
+Feel free to reach me on [Linkedin](https://www.linkedin.com/in/anirban-sinha-ny/) 
 <!--and [Twitter](https://www.linkedin.com/in/anirban-sinha-98199863/)-->
